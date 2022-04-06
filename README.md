@@ -1,6 +1,6 @@
 # View Color Generator
 
-COLOR GENERATOR [View deployment](http://faridgarayev.github.io/color-generator)
+[VIEW DEPLOYMENT](http://faridgarayev.github.io/color-generator)
 
 # Getting Started with Create React App
 
