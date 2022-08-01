@@ -1,3 +1,1 @@
-# View Color Generator
-
-[View deployment](http://faridgarayev.github.io/color-generator)
+# https://faridgaraev.me/color-generator/
